@@ -8,7 +8,7 @@ Iniciante em Tecnologia, graduada em Direito, advogada-não-praticante e futura 
 
 <div>
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=jolly"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&theme=jolly"/>
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&theme=jolly"/>
  </div>
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-de-castro-azevedo-61b78115a/)
