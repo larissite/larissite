@@ -20,5 +20,5 @@ Iniciante em Tecnologia, graduada em Direito, advogada-não-praticante e futura 
 <img align="left" alt="Larissa-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="Larissa-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg""/>
 <img align="left" alt="Larissa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
+![Snake animation](https://github.com/larissite/larissite/blob/output/github-contribution-grid-snake.svg)
  
