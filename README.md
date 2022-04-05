@@ -13,6 +13,7 @@ Iniciante em Tecnologia, graduada em Direito, advogada-não-praticante e futura 
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-de-castro-azevedo-61b78115a/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_larissite/)
+ ![Snake animation](https://github.com/larissite/larissite/blob/output/github-contribution-grid-snake.svg)
 
 **Estou estudando estas tecnologias** ⬇️ 
 
@@ -20,5 +21,5 @@ Iniciante em Tecnologia, graduada em Direito, advogada-não-praticante e futura 
 <img align="left" alt="Larissa-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="Larissa-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg""/>
 <img align="left" alt="Larissa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-![Snake animation](https://github.com/larissite/larissite/blob/output/github-contribution-grid-snake.svg)
+
  
