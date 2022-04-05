@@ -1,6 +1,5 @@
-<div class="tenor-gif-embed" data-postid="14210354" data-share-method="host" data-aspect-ratio="1.30435" data-width="100%"><a href="https://tenor.com/view/hi-hello-greeting-good-morning-hello-world-gif-14210354">Hi Hello Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-Oi :) 👋
+Olá, mundo :) 👋
 
 Eu sou a Larissa (ela/dela; she/her) 🦻🏻 ; <br>
 👉🏻 **Estudante** de _Web Fullstack_ na Labenu <br>
@@ -8,9 +7,10 @@ Eu sou a Larissa (ela/dela; she/her) 🦻🏻 ; <br>
   
 Iniciante em Tecnologia, graduada em Direito, advogada-não-praticante e futura web developer. ✨💻✨
 
+
 <div>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=jolly"/>
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&theme=jolly"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=jolly"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&theme=jolly"/>
  </div>
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-de-castro-azevedo-61b78115a/)
