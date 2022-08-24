@@ -7,9 +7,12 @@ Eu sou a Larissa (ela/dela; she/her) 🦻🏻 ; <br>
   
 Iniciante em Tecnologia, graduada em Direito, advogada-não-praticante e futura _web developer_. ✨💻✨
 
-<!--
+<img align="right" src="https://www.codewars.com/users/larissite/badges/micro">
 <a href="https://github.com/larissite">
-<img  src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+
+<!--
+
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&langs_count=7&theme=dracula"/> -->
 
                                                                                                                                   
