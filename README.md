@@ -20,6 +20,7 @@ Iniciante em Tecnologia, graduada em Direito, advogada-não-praticante e futura 
  <a href = "mailto:castrodelari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
 <!--  ![Snake animation](https://github.com/larissite/larissite/blob/output/github-contribution-grid-snake.svg) -->
+<br><br> <br><br> <br>
 
 **Atualmente estou estudando estas tecnologias** ⬇️ 
 
