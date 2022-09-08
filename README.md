@@ -1,8 +1,8 @@
 
 ## Olá, mundo 👋
 
-Eu sou a Larissa (ela/dela; she/her) 🦻🏻 ; <br>
-💻 Desenvolvedora Web Fullstack com foco em backend, formada pelo bootcamp Labenu. <br>
+:woman_technologist: Eu sou a Larissa (ela/dela; she/her) 🦻🏻  <br> 
+💻 Desenvolvedora Web Fullstack, formada pelo bootcamp Labenu <br> 
 :student:Estudante de Análise e Desenvolvimento de Sistemas
 
 👉🏻 **Pessoa Desenvolvedora Iniciante** na Loggi Tecnologia. 💙🐇
