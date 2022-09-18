@@ -5,9 +5,7 @@
 💻 Desenvolvedora Web Fullstack, formada pelo bootcamp Labenu <br> 
 :student:Estudante de Análise e Desenvolvimento de Sistemas
 
-👉🏻 **Pessoa Desenvolvedora Iniciante** na Loggi Tecnologia. 💙🐇
   
-
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 
