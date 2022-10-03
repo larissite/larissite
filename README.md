@@ -1,31 +1,27 @@
 
-<img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="230">
+<img align='right' src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="230">
 
+## Hello, there.
 
 :woman_technologist: My name is Larissa (ela/dela; she/her) 🦻🏻 <br> 
 💻 Web Fullstack Developer, bootcamp Labenu; <br> 
 :student:Software Analysis and Development student.
-
+<br> <br>
   
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&langs_count=7&theme=dracula"/> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-de-castro-azevedo-61b78115a/)
- 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_larissite/)
- 
- <a href = "mailto:castrodelari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
- [![Codewars](https://www.codewars.com/users/larissite/badges/micro)](https://www.codewars.com/users/larissite/)
-<a href="https://github.com/larissite">
+<br> <br>
+
+
  
 <!--  ![Snake animation](https://github.com/larissite/larissite/blob/output/github-contribution-grid-snake.svg) -->
-<br><br>
 
-:computer:What I learned in Labenu: 
+<br> <br> <br> <br> 
+
+##### :orange_circle: What I learned in Labenu:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -44,23 +40,25 @@
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-<br>
-:rocket: I am currently studying to work with:
+
+##### :rocket: I am currently studying to work with:
 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=&logo=Python)
 
-<br>:gear: I am learning all about: 
-
+##### :gear: I am learning all about: 
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
-<br>
-
-:wrench: Software: 
-
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+#####  :wrench: Software & Tools: 
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Ubuntu-black.svg?logo=ubuntu&logoColor=orange"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
+##### I like to practice my skills on Codewars
+[![Codewars](https://www.codewars.com/users/larissite/badges/micro)](https://www.codewars.com/users/larissite/)
+<a href="https://github.com/larissite">
+
+## Contact Me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-de-castro-azevedo-61b78115a/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_larissite/) <a href = "mailto:castrodelari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           
           
 
