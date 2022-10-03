@@ -1,9 +1,10 @@
 
-## Olá, mundo 👋
+<img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="230">
 
-:woman_technologist: Eu sou a Larissa (ela/dela; she/her) 🦻🏻  <br> 
-💻 Desenvolvedora Web Fullstack, formada pelo bootcamp Labenu <br> 
-:student:Estudante de Análise e Desenvolvimento de Sistemas
+
+:woman_technologist: My name is Larissa (ela/dela; she/her) 🦻🏻 <br> 
+💻 Web Fullstack Developer, bootcamp Labenu; <br> 
+:student:Software Analysis and Development student.
 
   
 
@@ -11,8 +12,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&langs_count=7&theme=dracula"/> 
 
-                                                                                                                                 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-de-castro-azevedo-61b78115a/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-de-castro-azevedo-61b78115a/)
  
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_larissite/)
  
@@ -25,15 +25,41 @@
 <!--  ![Snake animation](https://github.com/larissite/larissite/blob/output/github-contribution-grid-snake.svg) -->
 <br><br>
 
-<img align="left" alt="Larissa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="Larissa-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="Larissa-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg""/>
-<img align="left" alt="Larissa-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>                  <img align="left" alt="Larissa-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="left" alt="Larissa-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Larissa-nodejs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img  align="left" alt="Larissa-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="Larissa-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-<img align="left" alt="Larissa-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+:computer:What I learned in Labenu: 
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+![express](https://img.shields.io/badge/-express-black?style=flat-square&logo=express)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+ <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+![Jest](https://img.shields.io/badge/Jest-0ca965?style=flat-square&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+
+<br>
+:rocket: I am currently studying to work with:
+
+![Python](https://img.shields.io/badge/-Python-8fcfd1?style=&logo=Python)
+
+<br>:gear: I am learning all about: 
+
+
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br>
+
+:wrench: Software: 
+
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Ubuntu-black.svg?logo=ubuntu&logoColor=orange"></a>
 
           
           
