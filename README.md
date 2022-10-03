@@ -4,7 +4,7 @@
 ## Hello, there.
 
 :woman_technologist: My name is Larissa (ela/dela; she/her) 🦻🏻 <br> 
-💻 Web Fullstack Developer, bootcamp Labenu; <br> 
+💻 Web Fullstack Developer, bootcamp [Labenu](https://www.labenu.com.br/curso-de-programacao-web-full-stack-integral); <br> 
 :student:Software Analysis and Development student.
 <br> <br>
 
