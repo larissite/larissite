@@ -8,18 +8,15 @@
 :student:Software Analysis and Development student.
 <br> <br>
   
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=larissite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&langs_count=7&theme=dracula"/> 
 
 <br> <br>
-
-
  
 <!--  ![Snake animation](https://github.com/larissite/larissite/blob/output/github-contribution-grid-snake.svg) -->
 
-<br> <br> <br> <br> 
+<br> <br> <br> <br> <br>
 
 ##### :orange_circle: What I learned in Labenu:
 
