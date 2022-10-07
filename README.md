@@ -8,7 +8,7 @@
 :student:Software Analysis and Development student.
 <br> <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&langs_count=7&theme=dracula"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissite&layout=compact&langs_count=8&theme=dracula"/> 
 
 <br> <br>
  
