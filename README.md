@@ -40,7 +40,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=&logo=Python)
 
-##### :gear: I am learning all about: 
+##### :gear: I'm starting to learn about: 
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
