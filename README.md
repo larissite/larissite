@@ -45,8 +45,9 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 #####  :wrench: Software & Tools: 
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Ubuntu-black.svg?logo=ubuntu&logoColor=orange"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black.svg?logo=ubuntu&logoColor=orange"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt ="Pycharm" src="https://img.shields.io/badge/Pycharm-black.svg?logo=Pycharm"></a>
 
 ##### I like to practice my skills on Codewars
 [![Codewars](https://www.codewars.com/users/larissite/badges/micro)](https://www.codewars.com/users/larissite/)
